@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Mihir&#039;s Website	</title>
+	Comments on: Hello world!	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 26 Nov 2024 16:00:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>./../../hello-world/index.html#comment-1</link>
+		By: A WordPress Commenter		</title>
+		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 26 Nov 2024 16:00:44 +0000</pubDate>
